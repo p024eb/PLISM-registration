@@ -3,7 +3,7 @@
 `smartphone_wsi_registration.py` is a Python script for image registration between Whole Slide Images (WSI) and smartphone captured images.
 
 ## Installation
-
+The code requires Python 3.8.5.
 To install the necessary dependencies, run the following command:
 `pip install -r requirements.txt`
 
